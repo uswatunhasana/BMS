@@ -1,0 +1,1 @@
+const Tagify = window.Tagify = require('@yaireo/tagify/dist/tagify.min.js');
